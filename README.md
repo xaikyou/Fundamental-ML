@@ -42,3 +42,13 @@ This project is designed to be completed in the following steps:
 
 
 Feel free to modify and extend the notebook to explore further aspects of the data and experiment with different algorithms. Good luck.
+
+## 🌠 Result Report
+
+|No.| Model    | Accuracy |
+| --------| -------- | :-------: |
+|1|KNeighborsClassifier|0.40|
+|2|RandomForestClassifier|0.47|
+|3|DecisionTreeClassifier|0.30|
+|4|MLPClassifier|0.40|
+|5|Convolutional Neural Network|0.56|
