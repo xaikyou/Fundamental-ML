@@ -50,5 +50,5 @@ Feel free to modify and extend the notebook to explore further aspects of the da
 |1|KNeighborsClassifier|0.40|
 |2|RandomForestClassifier|0.47|
 |3|DecisionTreeClassifier|0.30|
-|4|MLPClassifier|0.40|
+|4|MLPClassifier|0.41|
 |5|Convolutional Neural Network|0.56|
